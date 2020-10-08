@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">House Price</string>
+    <string name="price_prediction">Price Prediction</string>
+    <string name="_2ndflrsf">2ndFlrSF</string>
+    <string name="year_built">Year Built</string>
+    <string name="submit">Submit</string>
+    <string name="yrsold">YrSold</string>
+    <string name="rabvgrd">RAbvGrd</string>
+    <string name="bedabvgr">BedAbvGr</string>
+    <string name="half_bath">Half Bath</string>
+    <string name="name1">Name</string>
+    <string name="full_bath">Full Bath</string>
+    <string name="name2">Name</string>
+    <string name="name3">Name</string>
+    <string name="name4">Name</string>
+    <string name="grlivarea">GrLivArea</string>
+</resources>
